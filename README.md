@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Puppeteer Play
 
 ## Getting Started
@@ -50,6 +49,3 @@ $ yarn bench
 # Or single execution of the specified file
 $ yarn bench:run benchmark/hello-world/hello-world.js
 ```
-=======
-# Autocannon
->>>>>>> 6bfd519e49bc03fb3f717fd3a68b950412a4f0ab
